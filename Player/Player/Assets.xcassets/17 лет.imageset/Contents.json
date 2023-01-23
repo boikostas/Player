@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "artworks-000599159450-55bw2u-t500x500.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
